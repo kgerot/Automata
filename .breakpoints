@@ -1,0 +1,20 @@
+{
+  "files": {
+    "eq0.txt": [
+      {
+        "id": "5978de3e-55a9-42ec-af2e-df883538ddc8",
+        "line": 9,
+        "version": 1,
+        "index": 34
+      }
+    ],
+    "tests/e0.txt": [
+      {
+        "id": "65e64547-1387-477d-baa1-1fb513889568",
+        "line": 4,
+        "version": 1,
+        "index": 11
+      }
+    ]
+  }
+}
